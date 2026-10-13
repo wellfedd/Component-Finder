@@ -1,0 +1,7 @@
+Component Finder
+
+Upload enkel index.html, icon.svg, manifest.webmanifest en sw.js naar de publieke GitHub-repository.
+
+De map PRIVE-NIET-UPLOADEN bevat de volledige fotolijst en de twee-koloms importlijst. Upload die map NIET naar GitHub: publieke repositories zijn door iedereen leesbaar.
+
+Op de iPhone: open Component Finder, tandwiel, Importeer CSV-bestand en selecteer componenten-import.csv. Controleer alle posities op het werk; de fotolijst is niet geverifieerd.
