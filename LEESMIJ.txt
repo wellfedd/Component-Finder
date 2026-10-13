@@ -1,7 +1,1 @@
-Component Finder
-
-Upload enkel index.html, icon.svg, manifest.webmanifest en sw.js naar de publieke GitHub-repository.
-
-De map PRIVE-NIET-UPLOADEN bevat de volledige fotolijst en de twee-koloms importlijst. Upload die map NIET naar GitHub: publieke repositories zijn door iedereen leesbaar.
-
-Op de iPhone: open Component Finder, tandwiel, Importeer CSV-bestand en selecteer componenten-import.csv. Controleer alle posities op het werk; de fotolijst is niet geverifieerd.
+ED&A APP — INSTALLATIE\n\nUpload ALLEEN index.html, icon.svg, manifest.webmanifest, sw.js en qr-lib.js naar de root van je bestaande GitHub-repository. Kies Commit changes.\n\nDe componentendatabase blijft in de lokale opslag van dezelfde GitHub Pages-website staan. Exporteer voor de zekerheid eerst een CSV-back-up.\n\nUpload GEEN CSV-bestanden met bedrijfsgegevens en GEEN echte gebruikersnamen, wachtwoorden of QR-codes naar GitHub.\n\nQuickLogin bewaart de QR-inhoud lokaal en ONVERSLEUTELD op je iPhone, om de badge na heropenen direct te tonen. Dat is een veiligheidsrisico. Gebruik alleen met toestemming van je werkgever. De scanner moet de gekozen Tab/Enter-sequenties herkennen. Test eerst met fictieve gegevens.\n
